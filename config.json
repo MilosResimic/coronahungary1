@@ -8,9 +8,9 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "",
+    "more": "This is a network of retweets based on tweets published between 2020/3/16 7:47:00 AM and 2020/3/24 7:37:00 AM, containing any of the following combinations of words (#coronavirus+#hungary, coronavirus+hungary, koronavirus+magyarorszag, koronavirus(tweets in Hungarian)). The network consists of 7403 nodes and 7884 edges.  Nodes are sized based on indegree (the more retweets, the bigger the node) and colored based on modularity class (community that they belong to, based on intensity of interaction)",
     "intro": "",
-    "title": "Cornavirus on twitter"
+    "title": "Twitterverse around covid-19 involving Hungary"
   },
   "legend": {
     "edgeLabel": "Retweet",
